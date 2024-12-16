@@ -41,18 +41,18 @@ Each project demonstrates the concepts covered in Day 1 and includes a template 
 
 | Project | Description | Link to Open |
 |---------|-------------|--------------|
-| **Project 1** | Basic HTML page structure and text formatting. | [Open Project 1](./Project1/file.html) |
-| **Project 2** | Working with lists and nested lists. | [Open Project 2](./Project2/file.html) |
-| **Project 3** | Adding and formatting images. | [Open Project 3](./Project3/file.html) |
-| **Project 4** | Hyperlinks and clickable images. | [Open Project 4](./Project4/file.html) |
-| **Project 5** | Combining all Day 1 concepts into a single template. | [Open Project 5](./Project5/file.html) |
+| **Project 1** | Basic HTML page structure and text formatting. | [Project 1](./task1) |
+| **Project 2** | Working with lists and nested lists. | [Project 2](./task2) |
+| **Project 3** | Adding and formatting images. | [Project 3](./task3) |
+| **Project 4** | Hyperlinks and clickable images. | [Project 4](./task4) |
+| **Project 5** | Combining all Day 1 concepts into a single template. | [Project 5](./task5) |
 
 ---
 
 ## **How to Run**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/HTML4_firstday.git
+   git clone https://github.com/Abdallah-Ali247/HTML4_firstday.git
    ```
 2. Open the HTML files in any web browser to view the projects.
 
